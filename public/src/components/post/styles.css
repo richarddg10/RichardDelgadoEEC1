@@ -1,0 +1,148 @@
+.fondoGeneral {
+    width: 350px;
+    height: 551px;
+    background-color: white;
+    box-shadow:  2px 2px 40px #999;
+}
+
+#fotoPerfil {
+    width: 50px;
+    position: absolute;
+    top: 8px;
+    left: 20px;
+}
+
+#nombreUsuario {
+    color: black;
+    font-size: 15px;
+    font-family: Arial;
+    position: absolute;
+    top: 6px;
+    left: 80px;
+}
+
+#ubicacion {
+    color: gray;
+    font-size: 8px;
+    font-family: Arial;
+    position: absolute;
+    top: 33px;
+    left: 80px;
+}
+
+#punticosOpciones {
+    width: 25px;
+    position: absolute;
+    top: 30px;
+    left: 304px;
+}
+
+.fondoArriba {
+    display: flex;
+    position: relative;
+    width: 350px;
+    height: 66px;
+    color: white;
+    box-shadow:  1px 1px 40px #999;
+}
+
+#HTML-JS-NODE-CSS {
+    width: 220px;
+    height: 270px;
+    position: absolute;
+    top: 110px;
+    left: 70px;
+}
+
+.contenedorIconos {
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    gap: 15px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+#heart {
+    width: 20px;
+}
+
+#comentario {
+    width: 20px;
+}
+
+#share {
+    width: 20px;
+}
+
+#save {
+    position: absolute;
+    width: 15px;
+    top: 10px;
+    left: 312px;
+}
+
+.fondoAbajo {
+    display: flex;
+    position: relative;
+    width: 350px;
+    height: 145px;
+    color: white;
+    box-shadow:  1px 1px 40px #999;
+    top: 340px;
+}
+
+#likePequeño {
+    width: 9px;
+    position: absolute;
+    top: 460px;
+    left: 32px;
+}
+
+#numeroLikes {
+    font-size: 10px;
+    font-family: Arial;
+    font-style: italic;
+    color: gray;
+    position: absolute;
+    top: 450px;
+    left: 47px;
+}
+
+#nombreUsuarioComentario {
+    color: black;
+    font-size: 12px;
+    font-family: Arial;
+    position: absolute;
+    top: 467px;
+    left: 32px;
+}
+
+#miComentario1 {
+    color: black;
+    font-size: 12px;
+    font-family: Arial;
+    position: absolute;
+    top: 465px;
+    left: 94px;
+}
+
+#miComentario2 {
+    color: black;
+    font-size: 12px;
+    font-family: Arial;
+    position: absolute;
+    top: 480px;
+    left: 32px;
+}
+
+#fechaPublicacion {
+    font-size: 9px;
+    font-family: Arial;
+    font-style: italic;
+    color: gray;
+    position: absolute;
+    top: 510px;
+    left: 32px;
+}
