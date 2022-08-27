@@ -10,7 +10,7 @@ class MyContainer extends HTMLElement {
     connectedCallback() {
         this.render()
     }
-
+    
     render() {
         this.shadowRoot.innerHTML = `
                 <my-post
